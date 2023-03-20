@@ -26,8 +26,8 @@ This Python script converts the Speech input into Text using NLP (Natural Langau
 ### How to run the script
 
 -   Enter the audio input by speaking into the microphone.
--   Run converter_terminal.py script
--   Output Text will be displayed
+-   Run speech.py on Terminal
+-   Output Text will be displayed in project folder with name "Output.txt"
 
 
 ## *Author Name*
